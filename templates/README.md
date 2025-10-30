@@ -33,6 +33,15 @@ Battle-tested prompt templates for product building, documentation, and AI-assis
 - Ideal for rapid prototyping
 - Accelerate frontend development
 
+### Replit Development Agents
+
+**[Replit Agents Collection](replit-agents/)**
+- Non-destructive prompts for high-stakes Replit development
+- Backend API, Frontend, Authentication & Security agents
+- API testing and quality assurance prompts
+- Production-ready, no-regression development approach
+- **[View all Replit agents →](replit-agents/README.md)**
+
 ---
 
 ## 🚀 How to Use

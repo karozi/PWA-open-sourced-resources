@@ -35,6 +35,12 @@ PWA-open-sourced-resources/
     ├── implementation-plan.md
     ├── prompt-builder.md
     ├── ui-elements-pack.md
+    ├── replit-agents/    # Replit-specific development agents
+    │   ├── backend-api-agent.md
+    │   ├── frontend-agent.md
+    │   ├── authentication-security-agent.md
+    │   ├── api-testing-agent.md
+    │   └── README.md
     └── README.md
 ```
 
@@ -103,6 +109,7 @@ Cycle between both: **vibe → spec → vibe → spec** as your project evolves.
 - **[Implementation Plan](templates/implementation-plan.md)** - Convert PRDs into actionable implementation plans
 - **[Prompt Builder](templates/prompt-builder.md)** - Create new prompts from scratch with structured methodology
 - **[UI Elements Pack](templates/ui-elements-pack.md)** - 100 most common UI elements for rapid prototyping
+- **[Replit Agents](templates/replit-agents/)** - Non-destructive development agents for Replit (Backend API, Frontend, Auth, Testing)
 - **[Templates README](templates/README.md)** - Complete guide to using all templates
 
 ---
