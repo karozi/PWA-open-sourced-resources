@@ -136,7 +136,7 @@ Contributions are welcome! To add your own resources:
 
 Explore more open-source resources from the Product with Attitude ecosystem:
 
-*More repositories coming soon! Check back for updates.*
+- **[PWA Sources](https://github.com/karozi/PWA_Sources)** - Reference lists and source materials for Product with Attitude articles. Verify claims, explore research, and ingest complete source lists into your own research tools.
 
 ---
 
