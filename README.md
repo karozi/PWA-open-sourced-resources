@@ -30,7 +30,12 @@ PWA-open-sourced-resources/
 │   └── README.md
 ├── guides/               # In-depth guides and documentation
 │   └── architecture-documentation.md
-└── templates/            # Reusable templates and playbooks
+└── templates/            # Prompt templates and playbooks
+    ├── prd-generator.md
+    ├── implementation-plan.md
+    ├── prompt-builder.md
+    ├── ui-elements-pack.md
+    └── README.md
 ```
 
 ---
@@ -92,6 +97,13 @@ Cycle between both: **vibe → spec → vibe → spec** as your project evolves.
 
 ### Guides
 - **[Architecture Documentation](guides/architecture-documentation.md)** - Best practices for documenting systems
+
+### Templates & Prompts
+- **[PRD Generator](templates/prd-generator.md)** - Full PRD builder with quality checks and AI gap scanner
+- **[Implementation Plan](templates/implementation-plan.md)** - Convert PRDs into actionable implementation plans
+- **[Prompt Builder](templates/prompt-builder.md)** - Create new prompts from scratch with structured methodology
+- **[UI Elements Pack](templates/ui-elements-pack.md)** - 100 most common UI elements for rapid prototyping
+- **[Templates README](templates/README.md)** - Complete guide to using all templates
 
 ---
 
