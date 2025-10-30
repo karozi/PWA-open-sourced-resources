@@ -120,6 +120,14 @@ Contributions are welcome! To add your own resources:
 
 ---
 
+## 🎁 You Might Also Enjoy
+
+Explore more open-source resources from the Product with Attitude ecosystem:
+
+*More repositories coming soon! Check back for updates.*
+
+---
+
 ## 📄 License & Attribution
 
 You're free to use, modify, and share everything in this repository for personal or commercial projects.
