@@ -137,6 +137,7 @@ Contributions are welcome! To add your own resources:
 Explore more open-source resources from the Product with Attitude ecosystem:
 
 - **[PWA Sources](https://github.com/karozi/PWA_Sources)** - Reference lists and source materials for Product with Attitude articles. Verify claims, explore research, and ingest complete source lists into your own research tools.
+- **[Product People of Substack](https://github.com/karozi/Product-People-of-Substack)** - Curated directory of product managers, UX designers, and AI builders on Substack. Discover authentic voices from practitioners actively shipping products, without the algorithm's big-name bias.
 
 ---
 
