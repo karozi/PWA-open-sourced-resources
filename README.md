@@ -29,7 +29,8 @@ PWA-open-sourced-resources/
 │   ├── vibecoding-vs-spec-driven.md
 │   └── README.md
 ├── guides/               # In-depth guides and documentation
-│   └── architecture-documentation.md
+│   ├── architecture-documentation.md
+│   └── the-ethics-stack.md
 └── templates/            # Prompt templates and playbooks
     ├── prd-generator.md
     ├── implementation-plan.md
@@ -103,6 +104,7 @@ Cycle between both: **vibe → spec → vibe → spec** as your project evolves.
 
 ### Guides
 - **[Architecture Documentation](guides/architecture-documentation.md)** - Best practices for documenting systems
+- **[The Ethics Stack](guides/the-ethics-stack.md)** - Resources and frameworks for building ethical, user-centered, brain-aware tech & AI products
 
 ### Templates & Prompts
 - **[PRD Generator](templates/prd-generator.md)** - Full PRD builder with quality checks and AI gap scanner
